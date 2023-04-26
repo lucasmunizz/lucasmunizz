@@ -9,14 +9,14 @@ My goal is to become a Full-Stack Intern/Junior Developer 💻. You can follow m
 - 📌 São Paulo/SP.
 - 👩🏻‍💻 Developer Full-Stack.
 - 🔍 Open to challenges to improve my skills as a Developer.
-- <a href="#" target="_blank">[Acompanhe essa jornada](https://github.com/lucasmunizz?tab=repositories)</a>
+- <a href="#" target="_blank">[Follow this journey](https://github.com/lucasmunizz?tab=repositories)</a>
 
 ## Courses 📚 (Completed/In progress) 
 - <a href="#" target="_blank">[Ignite (ReactJS)](https://rocketseat.com.br/ignite) 🚀</a>
 - <a href="#" target="_blank">[Ignite (Node.js)](https://rocketseat.com.br/ignite) 🚀</a>
 - <a href="#" target="_blank">[JStack](https://jstack.com.br/) 💻</a>
-- <a href="#" target="_blank">[JavaScript/TypeScript]([https://www.origamid.com](https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/learn/ecture/17425598?start=0))💻 </a>
-- <a href="#" target="_blank">[Java OOP](https://www.udemy.com/course/java-curso-completo/learn/lecture/10836228?start=780#overview) 🎨</a>
+- <a href="#" target="_blank">[JavaScript/TypeScript](https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/)💻 </a>
+- <a href="#" target="_blank">[Java OOP](https://www.udemy.com/course/java-curso-completo/) 🎨</a>
 
 ## Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 22>
 
