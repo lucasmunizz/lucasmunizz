@@ -1,46 +1,63 @@
-Hi, I'm Lucas 🙋‍♂️. Bachelor's degree in Information Systems 🎓 and improving myself in courses focused on the backend area. In love with games, board games, football, series and movies! I'm looking for jobs as a software developer using technologies like Typescript, , Node.js, Java, Spring and others!
-<!---
-lucasmunizz/lucasmunizz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align="left">Hi 👋 Welcome to my Github</h1>
 
-My goal is to become a Intern/Junior Developer 💻. You can follow my journey here 😄.
+###
 
-- 📌 São Paulo/SP.
-- 👩🏻‍💻 Developer.
-- 🔍 Open to challenges to improve my skills as a Developer.
-- <a href="#" target="_blank">[Follow this journey](https://github.com/lucasmunizz?tab=repositories)</a>
+<p align="left">My name is Lucas Muniz and I'm a .a a Software Engineering Intern at Itaú, one of the largest financial institutions in Latin America. I'm passionate about technology, problem-solving, and building innovative solutions that make a difference.</p>
 
-## Courses 📚 (Completed/In progress) 
-- <a href="#" target="_blank">[Ignite (ReactJS)](https://rocketseat.com.br/ignite) 🚀</a>
-- <a href="#" target="_blank">[Ignite (Node.js)](https://rocketseat.com.br/ignite) 🚀</a>
-- <a href="#" target="_blank">[JStack](https://jstack.com.br/) 💻</a>
-- <a href="#" target="_blank">[JavaScript/TypeScript](https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/)💻 </a>
-- <a href="#" target="_blank">[API REST with Design Patters and SOLID]([https://www.udemy.com/course/java-curso-completo/](https://www.udemy.com/course/api-restful-de-vendas/)) 🎨</a>
-- <a href="#" target="_blank">[Java OOP](https://www.udemy.com/course/java-curso-completo/) 🎨</a>
+###
 
+<h2 align="left">About me</h2>
 
-## Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 22>
+###
 
-<a> <img width=32 src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'></a>
-<a> <img width=32 src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'></a>
-<a> <img width=32 src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'></a>
-<a><img width=32 src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'></a>
-<a><img width=32 src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'></a>
-<a> <img width=32 src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'></a>
-<a> <img width=32 src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/docker.svg'></a>
-<a><img width=32 src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'></a>
-<a><img width=32 src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'></a>
-<a><img width=32 src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postgresql.svg'></a>
+<p align="left">- 💼 Working on exciting projects, contributing to the development of scalable and secure software solutions.<br>- 📚 Studying Information Systems at Universidade de São Paulo<br>- 💡 Interested in backend development, cloud computing, AI/ML</p>
 
+###
 
-## Find me here 👇🏻
-<a href="https://www.linkedin.com/in/lucas-muniz-625626198/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://api.whatsapp.com/send?phone=11945210195">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />        
-  </a>&nbsp;&nbsp; 
+<h2 align="left">My Stack</h2>
 
+###
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+</div>
 
+###
+
+<h2 align="left">Goals 🎯</h2>
+
+###
+
+<p align="left">- Deepen my knowledge in back-end development and good practices<br>- Build impactful software solutions that solve real-world problems.</p>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lucasmunizz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasmunizz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/lucas-muniz-625626198/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="mailto://lucaslima1048@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
