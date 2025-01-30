@@ -40,7 +40,7 @@
 
 ###
 
-<p align="left">- Deepen my knowledge in back-end development and good practices<br>- Build impactful software solutions that solve real-world problems.</p>
+<p align="left">- Deepen my knowledge in software architeture and engineering good practices<br>- Build impactful software solutions that solve real-world problems.</p>
 
 ###
 
